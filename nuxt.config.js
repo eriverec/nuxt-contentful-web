@@ -27,8 +27,6 @@ export default {
     '~/plugins/contentful',
   ],
 
-
-
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: false,
 
